@@ -1,5 +1,3 @@
-A short summary of the three source files in this folder.
-
 ## GetFinalGPA.java
 - Key methods:
     - `getFinalGPA(double numericScore)` — returns GPA (double).
